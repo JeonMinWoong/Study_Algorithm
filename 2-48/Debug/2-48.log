@@ -1,0 +1,7 @@
+﻿  2-48.cpp
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\2-48\2-48.cpp(8,61): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\2-48\2-48.cpp(8,50): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\2-48\2-48.cpp(24,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\2-48\2-48.cpp(41,20): warning C4305: '=': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\2-48\2-48.cpp(41,9): warning C4309: '=': 상수 값이 잘립니다.
+  2-48.vcxproj -> C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\Debug\2-48 각 행의 평균과 가장 가까운 값.exe

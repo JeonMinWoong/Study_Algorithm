@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\1-7\소스.cpp(14,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\1-7\소스.cpp(20,2): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  1-7.vcxproj -> C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\Debug\1-7.exe

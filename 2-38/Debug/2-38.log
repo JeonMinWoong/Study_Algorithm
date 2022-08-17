@@ -1,0 +1,4 @@
+﻿  2-38.cpp
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\2-38\2-38.cpp(8,9): warning C4101: 'ins' :참조되지 않은 지역 변수입니다.
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\2-38\2-38.cpp(8,18): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+  2-38.vcxproj -> C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\Debug\2-38.exe
