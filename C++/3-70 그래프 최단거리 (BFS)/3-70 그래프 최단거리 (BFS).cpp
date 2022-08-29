@@ -10,7 +10,9 @@ vector<int> map[21];
 int main()
 {
     int m,a,b,x;
+	vector<int> m;
 
+	m.push_back(x);
     scanf_s("%d %d", &n, &m);
 	queue<int> Q;
 	for (int i = 1; i <= m; i++)
