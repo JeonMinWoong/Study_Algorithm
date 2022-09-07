@@ -1,0 +1,4 @@
+﻿  덩치.cpp
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\Baekjoon\덩치\덩치.cpp(21,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\Baekjoon\덩치\덩치.cpp(24,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  덩치.vcxproj -> C:\Users\alsdn\OneDrive\바탕 화면\알고리즘 공부\코딩테스트 준비\1-1\Baekjoon\Debug\덩치.exe
