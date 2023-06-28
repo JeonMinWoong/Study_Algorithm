@@ -8,6 +8,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최대값", "최대값\최�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알파벳 찾기", "알파벳 찾기\알파벳 찾기.vcxproj", "{0323AEC2-4616-4CD2-BE70-D3CB8E47489E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자열 반복", "문자열 반복\문자열 반복.vcxproj", "{AD9EC376-0411-4A35-B505-05210A4847F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최소 최대", "최소 최대\최소 최대.vcxproj", "{FFFA34CF-3C1C-4145-A515-759292FEDC64}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알람시계", "알람시계\알람시계.vcxproj", "{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "별찍깅", "별찍깅\별찍깅.vcxproj", "{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "평균", "평균\평균.vcxproj", "{B8AD76F5-836B-43F8-A744-903F72BD8BEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -48,5 +58,45 @@ Global
 		{0323AEC2-4616-4CD2-BE70-D3CB8E47489E}.Release|Win32.Build.0 = Release|Win32
 		{0323AEC2-4616-4CD2-BE70-D3CB8E47489E}.Release|x64.ActiveCfg = Release|x64
 		{0323AEC2-4616-4CD2-BE70-D3CB8E47489E}.Release|x64.Build.0 = Release|x64
+		{AD9EC376-0411-4A35-B505-05210A4847F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD9EC376-0411-4A35-B505-05210A4847F8}.Debug|Win32.Build.0 = Debug|Win32
+		{AD9EC376-0411-4A35-B505-05210A4847F8}.Debug|x64.ActiveCfg = Debug|x64
+		{AD9EC376-0411-4A35-B505-05210A4847F8}.Debug|x64.Build.0 = Debug|x64
+		{AD9EC376-0411-4A35-B505-05210A4847F8}.Release|Win32.ActiveCfg = Release|Win32
+		{AD9EC376-0411-4A35-B505-05210A4847F8}.Release|Win32.Build.0 = Release|Win32
+		{AD9EC376-0411-4A35-B505-05210A4847F8}.Release|x64.ActiveCfg = Release|x64
+		{AD9EC376-0411-4A35-B505-05210A4847F8}.Release|x64.Build.0 = Release|x64
+		{FFFA34CF-3C1C-4145-A515-759292FEDC64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFFA34CF-3C1C-4145-A515-759292FEDC64}.Debug|Win32.Build.0 = Debug|Win32
+		{FFFA34CF-3C1C-4145-A515-759292FEDC64}.Debug|x64.ActiveCfg = Debug|x64
+		{FFFA34CF-3C1C-4145-A515-759292FEDC64}.Debug|x64.Build.0 = Debug|x64
+		{FFFA34CF-3C1C-4145-A515-759292FEDC64}.Release|Win32.ActiveCfg = Release|Win32
+		{FFFA34CF-3C1C-4145-A515-759292FEDC64}.Release|Win32.Build.0 = Release|Win32
+		{FFFA34CF-3C1C-4145-A515-759292FEDC64}.Release|x64.ActiveCfg = Release|x64
+		{FFFA34CF-3C1C-4145-A515-759292FEDC64}.Release|x64.Build.0 = Release|x64
+		{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}.Debug|Win32.Build.0 = Debug|Win32
+		{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}.Debug|x64.ActiveCfg = Debug|x64
+		{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}.Debug|x64.Build.0 = Debug|x64
+		{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}.Release|Win32.ActiveCfg = Release|Win32
+		{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}.Release|Win32.Build.0 = Release|Win32
+		{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}.Release|x64.ActiveCfg = Release|x64
+		{5CFFFB45-7DBF-4C6D-95E9-9AD7A87FD6BA}.Release|x64.Build.0 = Release|x64
+		{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}.Debug|Win32.Build.0 = Debug|Win32
+		{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}.Debug|x64.ActiveCfg = Debug|x64
+		{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}.Debug|x64.Build.0 = Debug|x64
+		{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}.Release|Win32.ActiveCfg = Release|Win32
+		{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}.Release|Win32.Build.0 = Release|Win32
+		{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}.Release|x64.ActiveCfg = Release|x64
+		{5B65C02B-4F86-4564-ABCF-C2FA9B31D51B}.Release|x64.Build.0 = Release|x64
+		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Debug|Win32.Build.0 = Debug|Win32
+		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Debug|x64.ActiveCfg = Debug|x64
+		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Debug|x64.Build.0 = Debug|x64
+		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Release|Win32.ActiveCfg = Release|Win32
+		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Release|Win32.Build.0 = Release|Win32
+		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Release|x64.ActiveCfg = Release|x64
+		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
