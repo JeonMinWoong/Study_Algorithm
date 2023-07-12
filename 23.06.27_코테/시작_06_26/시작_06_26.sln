@@ -18,6 +18,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "별찍깅", "별찍깅\별�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "평균", "평균\평균.vcxproj", "{B8AD76F5-836B-43F8-A744-903F72BD8BEF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최대공약수와 최소공배수", "최대공약수와 최소공배수\최대공약수와 최소공배수.vcxproj", "{82317C29-9ED3-4751-8A50-EC69D5AD3467}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -98,5 +100,13 @@ Global
 		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Release|Win32.Build.0 = Release|Win32
 		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Release|x64.ActiveCfg = Release|x64
 		{B8AD76F5-836B-43F8-A744-903F72BD8BEF}.Release|x64.Build.0 = Release|x64
+		{82317C29-9ED3-4751-8A50-EC69D5AD3467}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82317C29-9ED3-4751-8A50-EC69D5AD3467}.Debug|Win32.Build.0 = Debug|Win32
+		{82317C29-9ED3-4751-8A50-EC69D5AD3467}.Debug|x64.ActiveCfg = Debug|x64
+		{82317C29-9ED3-4751-8A50-EC69D5AD3467}.Debug|x64.Build.0 = Debug|x64
+		{82317C29-9ED3-4751-8A50-EC69D5AD3467}.Release|Win32.ActiveCfg = Release|Win32
+		{82317C29-9ED3-4751-8A50-EC69D5AD3467}.Release|Win32.Build.0 = Release|Win32
+		{82317C29-9ED3-4751-8A50-EC69D5AD3467}.Release|x64.ActiveCfg = Release|x64
+		{82317C29-9ED3-4751-8A50-EC69D5AD3467}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
