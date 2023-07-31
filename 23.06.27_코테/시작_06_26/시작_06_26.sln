@@ -48,6 +48,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "카드2", "카드2\카드2.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "스택 수열", "스택 수열\스택 수열.vcxproj", "{83730F17-2260-4A4A-9A64-8CAA4C6E1E7F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "소수 구하기", "소수 구하기\소수 구하기.vcxproj", "{EF192B35-EF17-4B95-95C1-281505054D96}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "팩토리얼 0의 개수", "팩토리얼 0의 개수\팩토리얼 0의 개수.vcxproj", "{46D9480A-FF95-4550-B586-E405FBDFC8D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "균형잡힌 세상", "균형잡힌 세상\균형잡힌 세상.vcxproj", "{157F7865-4CB2-4CEB-A4A2-548B5EF00052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -248,5 +254,29 @@ Global
 		{83730F17-2260-4A4A-9A64-8CAA4C6E1E7F}.Release|Win32.Build.0 = Release|Win32
 		{83730F17-2260-4A4A-9A64-8CAA4C6E1E7F}.Release|x64.ActiveCfg = Release|x64
 		{83730F17-2260-4A4A-9A64-8CAA4C6E1E7F}.Release|x64.Build.0 = Release|x64
+		{EF192B35-EF17-4B95-95C1-281505054D96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF192B35-EF17-4B95-95C1-281505054D96}.Debug|Win32.Build.0 = Debug|Win32
+		{EF192B35-EF17-4B95-95C1-281505054D96}.Debug|x64.ActiveCfg = Debug|x64
+		{EF192B35-EF17-4B95-95C1-281505054D96}.Debug|x64.Build.0 = Debug|x64
+		{EF192B35-EF17-4B95-95C1-281505054D96}.Release|Win32.ActiveCfg = Release|Win32
+		{EF192B35-EF17-4B95-95C1-281505054D96}.Release|Win32.Build.0 = Release|Win32
+		{EF192B35-EF17-4B95-95C1-281505054D96}.Release|x64.ActiveCfg = Release|x64
+		{EF192B35-EF17-4B95-95C1-281505054D96}.Release|x64.Build.0 = Release|x64
+		{46D9480A-FF95-4550-B586-E405FBDFC8D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46D9480A-FF95-4550-B586-E405FBDFC8D3}.Debug|Win32.Build.0 = Debug|Win32
+		{46D9480A-FF95-4550-B586-E405FBDFC8D3}.Debug|x64.ActiveCfg = Debug|x64
+		{46D9480A-FF95-4550-B586-E405FBDFC8D3}.Debug|x64.Build.0 = Debug|x64
+		{46D9480A-FF95-4550-B586-E405FBDFC8D3}.Release|Win32.ActiveCfg = Release|Win32
+		{46D9480A-FF95-4550-B586-E405FBDFC8D3}.Release|Win32.Build.0 = Release|Win32
+		{46D9480A-FF95-4550-B586-E405FBDFC8D3}.Release|x64.ActiveCfg = Release|x64
+		{46D9480A-FF95-4550-B586-E405FBDFC8D3}.Release|x64.Build.0 = Release|x64
+		{157F7865-4CB2-4CEB-A4A2-548B5EF00052}.Debug|Win32.ActiveCfg = Debug|Win32
+		{157F7865-4CB2-4CEB-A4A2-548B5EF00052}.Debug|Win32.Build.0 = Debug|Win32
+		{157F7865-4CB2-4CEB-A4A2-548B5EF00052}.Debug|x64.ActiveCfg = Debug|x64
+		{157F7865-4CB2-4CEB-A4A2-548B5EF00052}.Debug|x64.Build.0 = Debug|x64
+		{157F7865-4CB2-4CEB-A4A2-548B5EF00052}.Release|Win32.ActiveCfg = Release|Win32
+		{157F7865-4CB2-4CEB-A4A2-548B5EF00052}.Release|Win32.Build.0 = Release|Win32
+		{157F7865-4CB2-4CEB-A4A2-548B5EF00052}.Release|x64.ActiveCfg = Release|x64
+		{157F7865-4CB2-4CEB-A4A2-548B5EF00052}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
