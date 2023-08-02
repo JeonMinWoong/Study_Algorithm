@@ -60,6 +60,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "제로", "제로\제로.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "통계학", "통계학\통계학.vcxproj", "{B3B9BBE6-983D-4C4B-A4B4-B0B29C2D031A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "마인크래프트", "마인크래프트\마인크래프트.vcxproj", "{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -308,5 +310,13 @@ Global
 		{B3B9BBE6-983D-4C4B-A4B4-B0B29C2D031A}.Release|Win32.Build.0 = Release|Win32
 		{B3B9BBE6-983D-4C4B-A4B4-B0B29C2D031A}.Release|x64.ActiveCfg = Release|x64
 		{B3B9BBE6-983D-4C4B-A4B4-B0B29C2D031A}.Release|x64.Build.0 = Release|x64
+		{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}.Debug|Win32.Build.0 = Debug|Win32
+		{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}.Debug|x64.ActiveCfg = Debug|x64
+		{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}.Debug|x64.Build.0 = Debug|x64
+		{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}.Release|Win32.ActiveCfg = Release|Win32
+		{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}.Release|Win32.Build.0 = Release|Win32
+		{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}.Release|x64.ActiveCfg = Release|x64
+		{3B8DB9B8-F5ED-4C5C-8DDF-B18AA7519531}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
