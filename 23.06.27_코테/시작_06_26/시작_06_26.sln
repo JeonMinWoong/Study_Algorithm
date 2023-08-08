@@ -68,6 +68,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "듣보잡", "듣보잡\듣�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최소 힙", "최소 힙\최소 힙.vcxproj", "{8B300997-9290-410F-BB53-7728DF02A44E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "페션왕 신해빈", "페션왕 신해빈\페션왕 신해빈.vcxproj", "{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -348,5 +350,13 @@ Global
 		{8B300997-9290-410F-BB53-7728DF02A44E}.Release|Win32.Build.0 = Release|Win32
 		{8B300997-9290-410F-BB53-7728DF02A44E}.Release|x64.ActiveCfg = Release|x64
 		{8B300997-9290-410F-BB53-7728DF02A44E}.Release|x64.Build.0 = Release|x64
+		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Debug|Win32.Build.0 = Debug|Win32
+		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Debug|x64.ActiveCfg = Debug|x64
+		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Debug|x64.Build.0 = Debug|x64
+		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Release|Win32.ActiveCfg = Release|Win32
+		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Release|Win32.Build.0 = Release|Win32
+		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Release|x64.ActiveCfg = Release|x64
+		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
