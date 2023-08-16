@@ -70,6 +70,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "최소 힙", "최소 힙\�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "페션왕 신해빈", "페션왕 신해빈\페션왕 신해빈.vcxproj", "{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "쉬운 최단거리", "쉬운 최단거리\쉬운 최단거리.vcxproj", "{2C2C1122-F83B-4231-92E3-0E26D0D2F331}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "나는야 포켓몬 마스터 이다솜", "나는야 포켓몬 마스터 이다솜\나는야 포켓몬 마스터 이다솜.vcxproj", "{98ED395F-FB61-402D-ACA4-52B377B6162A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -358,5 +362,21 @@ Global
 		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Release|Win32.Build.0 = Release|Win32
 		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Release|x64.ActiveCfg = Release|x64
 		{2605F3F6-4090-4A6C-B9B4-341DBD4F238D}.Release|x64.Build.0 = Release|x64
+		{2C2C1122-F83B-4231-92E3-0E26D0D2F331}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C2C1122-F83B-4231-92E3-0E26D0D2F331}.Debug|Win32.Build.0 = Debug|Win32
+		{2C2C1122-F83B-4231-92E3-0E26D0D2F331}.Debug|x64.ActiveCfg = Debug|x64
+		{2C2C1122-F83B-4231-92E3-0E26D0D2F331}.Debug|x64.Build.0 = Debug|x64
+		{2C2C1122-F83B-4231-92E3-0E26D0D2F331}.Release|Win32.ActiveCfg = Release|Win32
+		{2C2C1122-F83B-4231-92E3-0E26D0D2F331}.Release|Win32.Build.0 = Release|Win32
+		{2C2C1122-F83B-4231-92E3-0E26D0D2F331}.Release|x64.ActiveCfg = Release|x64
+		{2C2C1122-F83B-4231-92E3-0E26D0D2F331}.Release|x64.Build.0 = Release|x64
+		{98ED395F-FB61-402D-ACA4-52B377B6162A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98ED395F-FB61-402D-ACA4-52B377B6162A}.Debug|Win32.Build.0 = Debug|Win32
+		{98ED395F-FB61-402D-ACA4-52B377B6162A}.Debug|x64.ActiveCfg = Debug|x64
+		{98ED395F-FB61-402D-ACA4-52B377B6162A}.Debug|x64.Build.0 = Debug|x64
+		{98ED395F-FB61-402D-ACA4-52B377B6162A}.Release|Win32.ActiveCfg = Release|Win32
+		{98ED395F-FB61-402D-ACA4-52B377B6162A}.Release|Win32.Build.0 = Release|Win32
+		{98ED395F-FB61-402D-ACA4-52B377B6162A}.Release|x64.ActiveCfg = Release|x64
+		{98ED395F-FB61-402D-ACA4-52B377B6162A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
