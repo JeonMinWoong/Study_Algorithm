@@ -1,6 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=0323aec2_002D4616_002D4cd2_002Dbe70_002Dd3cb8e47489e_0023_C54C_D30C_BCB3_0020_CC3E_AE30/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=157f7865_002D4cb2_002D4ceb_002Da4a2_002D548b5ef00052_0023_ADE0_D615_C7A1_D78C_0020_C138_C0C1/@EntryIndexedValue">True</s:Boolean>
+	
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=18f1591a_002D92ac_002D455b_002Db972_002D1e6acd885db6_0023_B79C_C120_0020_C790_B974_AE30/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=2605f3f6_002D4090_002D4a6c_002Db9b4_002D341dbd4f238d_0023_D398_C158_C655_0020_C2E0_D574_BE48/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=2c2c1122_002Df83b_002D4231_002D92e3_002D0e26d0d2f331_0023_C26C_C6B4_0020_CD5C_B2E8_AC70_B9AC/@EntryIndexedValue">True</s:Boolean>
@@ -13,6 +14,7 @@
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=554b9d39_002D107c_002D40d8_002D9976_002D0eb2c945eb49_0023_C774_D56D_0020_ACC4_C218_00201/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=5b65c02b_002D4f86_002D4564_002Dabcf_002Dc2fa9b31d51b_0023_BCC4_CC0D_AE45/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=5cfffb45_002D7dbf_002D4c6d_002D95e9_002D9ad7a87fd6ba_0023_C54C_B78C_C2DC_ACC4/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=6507bdbb_002D7115_002D4456_002D9169_002Dfe712dc513ab_0023_AD6C_AC04_0020_D569_0020_AD6C_D558_AE30_00204/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=82317c29_002D9ed3_002D4751_002D8a50_002Dec69d5ad3467_0023_CD5C_B300_ACF5_C57D_C218_C640_0020_CD5C_C18C_ACF5_BC30_C218/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=83730f17_002D2260_002D4a4a_002D9a64_002D8caa4c6e1e7f_0023_C2A4_D0DD_0020_C218_C5F4/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=85268358_002D410f_002D46cd_002Db550_002D903971e28c39_0023solved_002Eac/@EntryIndexedValue">True</s:Boolean>
