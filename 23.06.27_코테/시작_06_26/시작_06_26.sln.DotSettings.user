@@ -1,6 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=0323aec2_002D4616_002D4cd2_002Dbe70_002Dd3cb8e47489e_0023_C54C_D30C_BCB3_0020_CC3E_AE30/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=157f7865_002D4cb2_002D4ceb_002Da4a2_002D548b5ef00052_0023_ADE0_D615_C7A1_D78C_0020_C138_C0C1/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=16395099_002Db78d_002D4088_002D811d_002D350ee2fb9016_0023_C9D1_D569/@EntryIndexedValue">True</s:Boolean>
 	
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=18f1591a_002D92ac_002D455b_002Db972_002D1e6acd885db6_0023_B79C_C120_0020_C790_B974_AE30/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=2605f3f6_002D4090_002D4a6c_002Db9b4_002D341dbd4f238d_0023_D398_C158_C655_0020_C2E0_D574_BE48/@EntryIndexedValue">True</s:Boolean>
@@ -28,12 +29,14 @@
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=9fa24e8d_002Dd253_002D4326_002D842f_002De3fc79709ecc_0023_C218_0020_CC3E_AE30/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=a0cb567b_002D8c2e_002D4335_002D9858_002D0e0d9c2522d5_0023_C9C1_AC01_C0BC_AC01_D615/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=ad9ec376_002D0411_002D4a35_002Db505_002D05210a4847f8_0023_BB38_C790_C5F4_0020_BC18_BCF5/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=ae4fc683_002Deb4b_002D432b_002D83c6_002D251471e34956_0023_D1A0_B9C8_D1A0/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=aee357c3_002D1fcb_002D400e_002D96d1_002D5401dbdbb450_0023_CCB4_C2A4_D310_0020_B2E4_C2DC_0020_CE60_D558_AE30/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=b11e200c_002Dfcd0_002D4873_002Db08a_002D307d068b8184_0023_B4E3_BCF4_C7A1/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=b3b9bbe6_002D983d_002D4c4b_002Da4b4_002Db0b29c2d031a_0023_D1B5_ACC4_D559/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=b468fa9f_002D257b_002D480c_002Dab39_002D0c8e7dcda963_0023_B2E8_C5B4_C758_0020_AC1C_C218/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=b8ad76f5_002D836b_002D43f8_002Da744_002D903f72bd8bef_0023_D3C9_ADE0/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=caa73c6a_002D4d6f_002D40d6_002Db4ee_002D4681b2bfe1a0_0023_CF54_D14C_C900_BE44/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=e22b0c05_002Df5a0_002D4af5_002D9e9b_002D1ef28d5b4d61_0023_C88C_D45C_0020_C555_CD95/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=e5f9252a_002D2f90_002D45a5_002Da9cb_002Da9560de7ffb7_0023_C18C_C218_0020_CC3E_AE30/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=ef192b35_002Def17_002D4b95_002D95c1_002D281505054d96_0023_C18C_C218_0020_AD6C_D558_AE30/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=f7c57d3a_002Dc979_002D4d2b_002Db261_002D8ef3060219cb_0023_C81C_B85C/@EntryIndexedValue">True</s:Boolean>

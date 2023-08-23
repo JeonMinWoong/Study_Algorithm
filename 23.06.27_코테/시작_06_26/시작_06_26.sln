@@ -78,6 +78,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "구간 합 구하기 4", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "좌표 압축", "좌표 압축\좌표 압축.vcxproj", "{E22B0C05-F5A0-4AF5-9E9B-1EF28D5B4D61}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "토마토", "토마토\토마토.vcxproj", "{AE4FC683-EB4B-432B-83C6-251471E34956}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "집합", "집합\집합.vcxproj", "{16395099-B78D-4088-811D-350EE2FB9016}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -384,5 +388,21 @@ Global
 		{E22B0C05-F5A0-4AF5-9E9B-1EF28D5B4D61}.Release|Win32.Build.0 = Release|Win32
 		{E22B0C05-F5A0-4AF5-9E9B-1EF28D5B4D61}.Release|x64.ActiveCfg = Release|x64
 		{E22B0C05-F5A0-4AF5-9E9B-1EF28D5B4D61}.Release|x64.Build.0 = Release|x64
+		{AE4FC683-EB4B-432B-83C6-251471E34956}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE4FC683-EB4B-432B-83C6-251471E34956}.Debug|Win32.Build.0 = Debug|Win32
+		{AE4FC683-EB4B-432B-83C6-251471E34956}.Debug|x64.ActiveCfg = Debug|x64
+		{AE4FC683-EB4B-432B-83C6-251471E34956}.Debug|x64.Build.0 = Debug|x64
+		{AE4FC683-EB4B-432B-83C6-251471E34956}.Release|Win32.ActiveCfg = Release|Win32
+		{AE4FC683-EB4B-432B-83C6-251471E34956}.Release|Win32.Build.0 = Release|Win32
+		{AE4FC683-EB4B-432B-83C6-251471E34956}.Release|x64.ActiveCfg = Release|x64
+		{AE4FC683-EB4B-432B-83C6-251471E34956}.Release|x64.Build.0 = Release|x64
+		{16395099-B78D-4088-811D-350EE2FB9016}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16395099-B78D-4088-811D-350EE2FB9016}.Debug|Win32.Build.0 = Debug|Win32
+		{16395099-B78D-4088-811D-350EE2FB9016}.Debug|x64.ActiveCfg = Debug|x64
+		{16395099-B78D-4088-811D-350EE2FB9016}.Debug|x64.Build.0 = Debug|x64
+		{16395099-B78D-4088-811D-350EE2FB9016}.Release|Win32.ActiveCfg = Release|Win32
+		{16395099-B78D-4088-811D-350EE2FB9016}.Release|Win32.Build.0 = Release|Win32
+		{16395099-B78D-4088-811D-350EE2FB9016}.Release|x64.ActiveCfg = Release|x64
+		{16395099-B78D-4088-811D-350EE2FB9016}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
